@@ -38,7 +38,7 @@ Afterwards, I imported the data into power bi for analysis and visualization
 
 * Click on the link below to view and interact with the dashboard
 
-https://app.powerbi.com/groups/me/reports/0ff98abf-6a77-451d-b934-b750cac9086f/ReportSectiona1c8d00538bb2cd0fc67
+https://app.powerbi.com/view?r=eyJrIjoiZDI3NDU5ZmItYTdlZi00OGU3LTk3MWEtMGUxNzE1ZTY2ZTUwIiwidCI6IjRlNTQwMzY1LTJjMjYtNDcyYS1iNDVmLTk1MTZlZmRjZThiNiJ9
 
 # RECOMMENDATIONS 
 
