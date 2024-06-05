@@ -1,12 +1,12 @@
 # MAVEN-AIRLINE-PASSENGER-SATISFACTION-REPORT
 
-![a8fd5063d97727402494968d463067d1](https://user-images.githubusercontent.com/114547009/197585266-647c22f2-69e5-4a0a-a710-df55fd123a47.jpg)
+(https://user-images.githubusercontent.com/114547009/197585266-647c22f2-69e5-4a0a-a710-df55fd123a47.jpg)
 
 # ABOUT DATASET
 The dataset contains a single CSV file with 129,880 Airline passengers, including additional information about each passenger, their flight and type of travel as well as their evaluation of different factors and overall experience which makes up 24 fields.
 
 # MY APPROACH
-Firstly, I imported the dataset into Microsoft Excel to view the data and better understand the various fields that make up the columns.
+Firstly, I imported the dataset into Microsoft Excel to view the data and better understand the various fields that comprise the columns.
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/114547009/197788989-bd99ebc0-7df2-4640-a266-ba3865a5d83a.png)
 
